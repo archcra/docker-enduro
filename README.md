@@ -1,5 +1,5 @@
 # docker-enduro
-Dockerfile for enduro
+Dockerfile for enduro (http://www.endurojs.com/, https://github.com/Gottwik/Enduro)
 
 Based on Node.js Dockerfile.
 
